@@ -1,4 +1,4 @@
-![logo](https://github.com/Kaarthika8/Kaarthika8/blob/main/banner.png)
+![logo](https://github.com/Kaarthika8/Kaarthika8/blob/main/Untitled%20design%20(2).png)
 <h1 align="center">Hi 👋, I'm Kaarthika</h1>
 <h3 align="center">On a programming odyssey !</h3>
 <img align="right" alt="codingimg" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif"> 
