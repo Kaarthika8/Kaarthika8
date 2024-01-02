@@ -3,7 +3,10 @@
 <h3 align="center">On a programming odyssey !</h3>
 <img align="right" alt="codingimg" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif"> 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaarthika8&label=Profile%20views&color=0e75b6&style=flat" alt="kaarthika8" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **kaarthika1003@gmail.com**
 
